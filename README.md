@@ -21,44 +21,9 @@ A modern one-page static gaming store website created using HTML and CSS as part
 ✅ Clean & Readable Layout  
 ✅ Logical Sitemap
 
-Talal's Game Store
-│
-├── Header
-│   ├── Logo
-│   └── Navigation Menu
-│       ├── Home
-│       ├── Games
-│       ├── About
-│       └── Contact
-│
-├── Main
-│   │
-│   ├── Hero Section (Home)
-│   │   ├── Main Heading (H1)
-│   │   ├── Description Text
-│   │   ├── Explore Games Button
-│   │   └── Hero Image
-│   │
-│   ├── Featured Games Section
-│   │   ├── Section Heading
-│   │   └── Game Cards
-│   │       ├── Cyber Strike 2077
-│   │       ├── Velocity Racers
-│   │       └── BattleZone Arena
-│   │
-│   ├── About Section
-│   │   ├── About Image
-│   │   ├── About Heading
-│   │   ├── Description Paragraphs
-│   │   └── Contact Button
-│   │
-│   └── Contact Section
-│       ├── Email
-│       ├── Phone
-│       └── Location
-│
-└── Footer
-    └── Copyright Information
+<img width="439" height="899" alt="Sitemap" src="https://github.com/user-attachments/assets/fdb6a161-af86-4b17-8927-6794dcedc0bf" />
+
+
 
 ## Author
 
