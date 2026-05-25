@@ -1,4 +1,5 @@
 Talal's Web
+
 A modern one-page responsive website created using HTML and CSS as part of Frontend Development Project 2.
 
 Features
