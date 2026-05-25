@@ -12,13 +12,13 @@ Modern UI design
 Mobile Responsiveness
 
 Internship Requirements Completed
--✅ Proper HTML Structure
--✅ Mobile Responsiveness
--✅ External CSS File
--✅ Responsive Design
--✅ CSS Grid & Flexbox
--✅ JPG Image
--✅ Explicit Image Dimensions
--✅ Clean & Readable Layout
--✅ Logical Sitemap
+- ✅ Proper HTML Structure
+- ✅ Mobile Responsiveness
+- ✅ External CSS File
+- ✅ Responsive Design
+- ✅ CSS Grid & Flexbox
+- ✅ JPG Image
+- ✅ Explicit Image Dimensions
+- ✅ Clean & Readable Layout
+- ✅ Logical Sitemap
 
