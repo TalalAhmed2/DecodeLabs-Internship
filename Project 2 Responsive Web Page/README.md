@@ -24,5 +24,7 @@ Internship Requirements Completed
 <img width="913" height="408" alt="Sitemap" src="https://github.com/user-attachments/assets/8eb0c372-9652-40f8-84c1-2de13c6b5a69" />
 
 Author
+
 Talal Ahmed
+
 Frontend Development Intern
