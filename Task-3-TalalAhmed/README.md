@@ -32,7 +32,8 @@ A modern and responsive interactive web application built using HTML, CSS, and J
 
 ## Sitemap
 
-![alt text](Sitemap-1.JPG)
+<img width="599" height="939" alt="Sitemap" src="https://github.com/user-attachments/assets/bc4ad23f-a2a5-4d29-b932-a9785a6f3cdf" />
+
 
 ## Learning Outcomes
 
